@@ -1,0 +1,9 @@
+image_filenames,label_filenames
+patient001/patient001_ED.nii.gz,patient001/patient001_ED_gt.nii.gz
+patient011/patient011_ED.nii.gz,patient011/patient011_ED_gt.nii.gz
+patient021/patient021_ED.nii.gz,patient021/patient021_ED_gt.nii.gz
+patient031/patient031_ED.nii.gz,patient031/patient031_ED_gt.nii.gz
+patient041/patient041_ED.nii.gz,patient041/patient041_ED_gt.nii.gz
+patient051/patient051_ED.nii.gz,patient051/patient051_ED_gt.nii.gz
+patient061/patient061_ED.nii.gz,patient061/patient061_ED_gt.nii.gz
+patient071/patient071_ED.nii.gz,patient071/patient071_ED_gt.nii.gz

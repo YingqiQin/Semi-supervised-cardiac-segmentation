@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f7112f4-fba3-44fd-9322-b25987474fef" name="reg_seg">
+        <fileTransfer rootFolder="/home/fguo24/projects/def-ouriadov/fguo24/GuoLabStudents/yqin/Reg_Seg/pytorch/pytorch-deeplab_v3_plus/" accessType="SFTP" host="cedar.computecanada.ca" port="22" sshConfigId="957a5415-86d7-46b0-b836-808857f970c9" sshConfig="fguo24@cedar.computecanada.ca:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="20c81126-9b0e-4235-9cb9-be5293f14d6b" name="ACDC_Data">
+        <fileTransfer rootFolder="/home/fguo24/projects/def-ouriadov/fguo24/GuoLabStudents/yqin/Time_Series_Seg/database/testing" accessType="SFTP" host="cedar.computecanada.ca" port="22" sshConfigId="957a5415-86d7-46b0-b836-808857f970c9" sshConfig="fguo24@cedar.computecanada.ca:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5fea6ffa-7f08-4bed-9ec1-6c0a6fdae8b1" name="results">
+        <fileTransfer rootFolder="/home/fguo24/scratch/Reg_Seg" accessType="SFTP" host="cedar.computecanada.ca" port="22" sshConfigId="957a5415-86d7-46b0-b836-808857f970c9" sshConfig="fguo24@cedar.computecanada.ca:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d49eaf7d-ab06-4aa9-8990-4ae2c6889ca7" name="reg_seg_fguo">
+        <fileTransfer rootFolder="/home/fguo/projects/def-gawright/fguo/GuoLab_students/yqin/Reg_Seg" accessType="SFTP" host="cedar.computecanada.ca" port="22" sshConfigId="ae985339-a3e9-4724-8150-41beb6c5dff6" sshConfig="fguo@cedar.computecanada.ca:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fecdd8de-e43d-49c7-b61e-dce21a184b27" name="ssl">
+        <fileTransfer rootFolder="/home/fguo24/scratch/Reg_Seg/semi_2Seg_TAtten_features/series_predictions/patient144" accessType="SFTP" host="cedar.computecanada.ca" port="22" sshConfigId="957a5415-86d7-46b0-b836-808857f970c9" sshConfig="fguo24@cedar.computecanada.ca:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

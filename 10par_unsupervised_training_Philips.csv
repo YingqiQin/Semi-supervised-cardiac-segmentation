@@ -1,0 +1,16 @@
+image_filenames,label_filenames
+A5C2D2_ES/Img_resamp_12.nii.gz,A5C2D2_ES/GT_resamp_12.nii.gz
+O4T6Y7_ES/Img_resamp_12.nii.gz,O4T6Y7_ES/GT_resamp_12.nii.gz
+N9P5Z0_ED/Img_resamp_12.nii.gz,N9P5Z0_ED/GT_resamp_12.nii.gz
+H7N4V9_ED/Img_resamp_12.nii.gz,H7N4V9_ED/GT_resamp_12.nii.gz
+E6J4N8_ES/Img_resamp_12.nii.gz,E6J4N8_ES/GT_resamp_12.nii.gz
+E3T0Z2_ES/Img_resamp_12.nii.gz,E3T0Z2_ES/GT_resamp_12.nii.gz
+A3B7E5_ED/Img_resamp_12.nii.gz,A3B7E5_ED/GT_resamp_12.nii.gz
+E5E6O8_ES/Img_resamp_12.nii.gz,E5E6O8_ES/GT_resamp_12.nii.gz
+I7W4Y8_ES/Img_resamp_12.nii.gz,I7W4Y8_ES/GT_resamp_12.nii.gz
+H0K3Q4_ED/Img_resamp_12.nii.gz,H0K3Q4_ED/GT_resamp_12.nii.gz
+K9N0W0_ES/Img_resamp_12.nii.gz,K9N0W0_ES/GT_resamp_12.nii.gz
+G7N8R7_ED/Img_resamp_12.nii.gz,G7N8R7_ED/GT_resamp_12.nii.gz
+C2M6P8_ED/Img_resamp_12.nii.gz,C2M6P8_ED/GT_resamp_12.nii.gz
+Q3Q6R8_ED/Img_resamp_12.nii.gz,Q3Q6R8_ED/GT_resamp_12.nii.gz
+A9J8W7_ES/Img_resamp_12.nii.gz,A9J8W7_ES/GT_resamp_12.nii.gz

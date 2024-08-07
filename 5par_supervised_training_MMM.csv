@@ -1,0 +1,6 @@
+image_filenames,label_filenames
+G1J5K3_ES/Img_resamp_12.nii.gz,G1J5K3_ES/GT_resamp_12.nii.gz
+Q4W5Z8_ED/Img_resamp_12.nii.gz,Q4W5Z8_ED/GT_resamp_12.nii.gz
+G4I7V2_ED/Img_resamp_12.nii.gz,G4I7V2_ED/GT_resamp_12.nii.gz
+O7Q7U3_ES/Img_resamp_12.nii.gz,O7Q7U3_ES/GT_resamp_12.nii.gz
+G8L0Z0_ED/Img_resamp_12.nii.gz,G8L0Z0_ED/GT_resamp_12.nii.gz

@@ -1,0 +1,3 @@
+image_filenames,label_phases
+patient081/patient081_4d.nii.gz,7
+patient091/patient091_4d.nii.gz,9

@@ -1,0 +1,3 @@
+image_filenames,label_filenames
+patient081/patient081_ES.nii.gz,patient081/patient081_ES_gt.nii.gz
+patient091/patient091_ES.nii.gz,patient091/patient091_ES_gt.nii.gz

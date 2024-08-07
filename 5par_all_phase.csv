@@ -1,0 +1,9 @@
+image_filenames,label_filenames,label_phases
+patient001/patient001_4d.nii.gz,patient001/patient001_ES_gt.nii.gz,12
+patient011/patient011_4d.nii.gz,patient011/patient011_ES_gt.nii.gz,13
+patient021/patient021_4d.nii.gz,patient021/patient021_ES_gt.nii.gz,11
+patient031/patient031_4d.nii.gz,patient031/patient031_ES_gt.nii.gz,12
+patient041/patient041_4d.nii.gz,patient041/patient041_ES_gt.nii.gz,16
+patient051/patient051_4d.nii.gz,patient051/patient051_ES_gt.nii.gz,9
+patient061/patient061_4d.nii.gz,patient061/patient061_ES_gt.nii.gz,9
+patient071/patient071_4d.nii.gz,patient071/patient071_ES_gt.nii.gz,11
